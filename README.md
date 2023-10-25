@@ -2,7 +2,8 @@
 por Valentina Arancibia.
 
 # Prototipo
-![20231025_152433](https://github.com/ClubElectronicaVolta/Arduinotropo/assets/145802194/eed0efa7-5976-4a17-b6a2-13be41390969)
+![foto](https://github.com/ClubElectronicaVolta/Arduinotropo/assets/145802194/e2101d00-b238-4fa3-a78c-fd91724e7cd3)
+
 
 El arduinótropo es un diseño para hacer funcionar distintos artilugios de animación antiguos, zoótropos, kinetóforos, etc, utilizando un motor paso a paso de una impresora antigua, y algunos componentes, además de un Arduino (Uno, Nano, etc)
 
